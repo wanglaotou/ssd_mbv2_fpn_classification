@@ -39,7 +39,7 @@ root_test = '/media/mario/新加卷/DataSets/ALPR/zhongdong'
 save_root = '/media/mario/新加卷/DataSets/videosrc_Results/zhongdong'
 
 ftr = open('eval/plate_mb_result_zhongdong_fpn_29w_thre045_lmark_colorlan_0314.txt','w')
-test_imgpath = os.path.join(save_root,'plate_mb_result_zhongdong_fpn_29w_thre045_lmark_colorlan_0314')
+test_imgpath = os.path.join('eval','plate_mb_result_zhongdong_fpn_29w_thre045_lmark_colorlan_0314')
 color_dict = {'0': 'yellow_card', '1': 'white_card', '2': 'red_card', '3': 'green_card'}
 lan_dict = {'0': 'Double_column', '1': 'Single_column'}
 # yellow_card:0
@@ -57,7 +57,7 @@ color_model = (torch.load(color_model_path))
 lan_model = (torch.load(lan_model_path))
 color_model = color_model.to(device)
 lan_model = lan_model.to(device)
-image_dir = '/media/mario/新加卷/DataSets/videosrc/zhongdong/test'
+image_dir = 'testimg'
 img_paths = [el for el in paths.list_images(image_dir)]
 random.shuffle(img_paths)
 for imgpath in img_paths:
@@ -234,7 +234,7 @@ for imgpath in img_paths:
             ftr.write(str(x1) + ' ' + str(y1) + ' ')
         
     ftr.write('\n')
-    # image = cv2.resize(image, (1920, 1080))
-    # cv2.imshow('image', image)
-    # cv2.waitKey(0)
+    image = cv2.resize(image, (1920, 1080))
+    cv2.imshow('image', image)
+    cv2.waitKey(0)
         
