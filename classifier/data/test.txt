@@ -1,0 +1,24 @@
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/4413.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/1919.jpg 1 0.01 0.09 -0.19 -0.04
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/22851.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/13439.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/34987.jpg 1 0.15 0.07 0.04 -0.00
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/4353.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/8359.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/24448.jpg 1 0.03 0.04 -0.16 -0.16
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/21510.jpg 1 -0.06 0.02 -0.05 -0.18
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/13415.jpg 1 -0.19 -0.04 0.07 0.15
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/45810.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/7001.jpg 1 0.16 0.01 -0.02 -0.13
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/21259.jpg 1 -0.09 0.21 -0.07 0.05
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/42456.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/27873.jpg 1 0.00 0.03 -0.06 0.26
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/13382.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/38321.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/42611.jpg 1 -0.04 -0.05 -0.06 -0.23
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/40373.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/36711.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/22168.jpg 1 0.12 0.09 -0.03 0.04
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/19267.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/positive/19726.jpg 1 -0.18 -0.01 0.02 -0.08
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/negative/40497.jpg 0

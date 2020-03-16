@@ -1,0 +1,10 @@
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/60456.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/33594.jpg 1
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/43929.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/85796.jpg 1
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/74812.jpg 1
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/95424.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/21472.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/6206.jpg 1
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/48155.jpg 0
+/media/mario/新加卷/DataSets/ALPR/zhongdong/classification/vidcolorlan/9999.jpg 0
